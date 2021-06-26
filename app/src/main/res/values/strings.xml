@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Deep Calculator</string>
+    <string name="plus">+</string>
+    <string name="subract">-</string>
+    <string name="multiply">*</string>
+    <string name="devide">/</string>
+    <string name="subtract">subtract</string>
+    <string name="divide">divide</string>
+</resources>
